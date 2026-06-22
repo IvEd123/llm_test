@@ -1,0 +1,20 @@
+|Five plus two equals to | - math_0; 6
+|Ten minus three equals to | - math_1; 6
+|Seven plus one equals to | - math_2; 6
+|Six times two equals to | - math_3; 6
+|Eight minus four equals to | - math_4; 6
+|Nine plus three equals to | - math_5; 6
+|Four times three equals to | - math_6; 6
+|Twelve minus six equals to | - math_7; 7
+|Two times five equals to | - math_8; 6
+|Three plus three equals to | - math_9; 6
+|Five cats slept all day because of | - others_0; 8
+|Ten dogs ran in the park because of | - others_1; 9
+|Seven birds flew away because of | - others_2; 7
+|Six frogs jumped into water because of | - others_3; 8
+|Eight bees flew around because of | - others_4; 7
+|Nine cows grazed quietly because of | - others_5; 8
+|Four horses galloped fast because of | - others_6; 8
+|Twelve monkeys climbed trees because of | - others_7; 8
+|Two spiders spun webs because of | - others_8; 7
+|Three bears searched for honey because of | - others_9; 8

@@ -1,0 +1,13 @@
+|Ten plus five equals to | - math_0; 6
+|Eight minus three equals to | - math_1; 6
+|Six times two equals to | - math_2; 6
+|Nine plus seven equals to | - math_3; 6
+|Four times one equals to | - math_4; 6
+|Twelve minus six equals to | - math_5; 7
+|Cats love fish because of | - other_0; 7
+|Dogs chase balls because of | - other_1; 7
+|Birds build nests because of | - other_2; 7
+|Bears eat honey because of | - other_3; 7
+|Cows chew grass because of | - other_4; 7
+|Frogs catch flies because of | - other_5; 8
+|Bears eat honey because of | - other_3; 7
